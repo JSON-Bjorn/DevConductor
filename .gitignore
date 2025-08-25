@@ -1,0 +1,6 @@
+/markdown
+.env
+/venv
+.png
+.pyc
+/pycache
